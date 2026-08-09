@@ -1,9 +1,1 @@
-{
-  "name": "twnhouse-ca",
-  "version": "1.0.0",
-  "dependencies": {
-    "pg": "^8.11.3",
-    "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^9.0.2"
-  }
-}
+{"name":"twnhouse-ca","version":"1.0.0","dependencies":{"pg":"^8.11.3","bcryptjs":"^2.4.3","jsonwebtoken":"^9.0.2"}}
